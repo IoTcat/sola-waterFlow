@@ -1,0 +1,28 @@
+{
+  "name": "flowmeter",
+  "version": "1.0.0",
+  "description": "flowmeter recoder for wc MCU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotcat/sola.git"
+  },
+  "keywords": [
+    "iot",
+    "mqtt",
+    "arduino",
+    "esp8266"
+  ],
+  "author": "iotcat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iotcat/sola/issues"
+  },
+  "homepage": "https://github.com/iotcat/sola#readme",
+  "dependencies": {
+    "mqtt": "^3.0.0"
+  }
+}
